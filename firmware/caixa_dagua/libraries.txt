@@ -1,0 +1,2 @@
+# Bibliotecas usadas pelo Wokwi (no Arduino IDE, instale pelo Library Manager)
+ArduinoJson

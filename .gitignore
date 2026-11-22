@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+
+.env
+.env.local
+.env.*.local
+firmware/**/secrets.h
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
